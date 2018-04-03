@@ -1,0 +1,23 @@
+body {
+	background: #2E9CE6;
+	padding: 0.4em;
+	font-family: 'Helvetica' , 'Arial', 'sans-serif';
+	color: #fff;
+	line-height: 1.2em;
+}
+ul {
+	list-style-type:none;
+	margin: 2em;	
+	padding: 0;
+}
+ul li {
+	display: inline;
+	margin: 30px;
+}
+ul li a {
+	font-size: 1.5em;
+}
+a {
+	color: #fff;
+	text-decoration: none;;
+}
