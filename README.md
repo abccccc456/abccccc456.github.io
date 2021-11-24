@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Aaron's Pages
 
-You can use the [editor on GitHub](https://github.com/abccccc456/abccccc456.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+互联网工作经验 5年+
+行业经验 互联网+健身 直播 智慧校园 智慧社区 在线教育 传统能源行业 电商
 
 ### Markdown
 
