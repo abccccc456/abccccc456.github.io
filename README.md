@@ -46,7 +46,3 @@
 2.具备逻辑理解能力,沟通协作,执行力,产品管理,项目管理能力等成熟产品经理素质.
 3.拥有研发经验,技术背景与研发团队交流通畅,了解主流技术,常用软件架构框架与互联网新技术.
 ```
-
-For more details see [Basic writing and formatting syntax]().
-### Support or Contact
-Having trouble with Pages? Check out our [documentation]() or [contact support]() and we’ll help you sort it out.
